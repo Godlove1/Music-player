@@ -1,2 +1,2 @@
 # Music-player
-A simple audio music player
+A simple javascript audio  player
